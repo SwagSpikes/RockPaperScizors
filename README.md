@@ -1,2 +1,2 @@
-# RockPaperScizors
-the description decided to be lazy.
+# RockPaperScizors - the assignment
+a game and git guide i followed.

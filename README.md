@@ -21,5 +21,4 @@ Possible outcomes:
 |scissors |paper    |Win    |
 |scissors |scissors |Draw   |
 ## Link to Source Code
-[Source Code] RockPaperScissors.java
 ## Screenshots

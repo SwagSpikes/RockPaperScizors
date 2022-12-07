@@ -10,15 +10,15 @@ The player enters one of 3 options:
 The computer chooses a random option and the result is revealed.
 ## Solution
 Possible outcomes:
-### |Player   |Computer |Outcome|
-### |rock     |rock     |Draw   |
-### |rock     |paper    |Loss   |
-### |rock     |scissors |Win    |
-### |paper    |rock     |Win    |
-### |paper    |paper    |Draw   |
-### |paper    |scissors |Loss   |
-### |scissors |rock     |Loss   |
-### |scissors |paper    |Win    |
-### |scissors |scissors |Draw   |
+### |Player|Computer |Outcome|
+### |rock - rock - Draw|
+### |rock - paper - Loss|
+### |rock - scissors - Win|
+### |paper - rock - Win|
+### |paper - paper - Draw|
+### |paper - scissors - Loss|
+### |scissors - rock - Loss|
+### |scissors - paper - Win|
+### |scissors - scissors - Draw|
 ## Link to Source Code
 ## Screenshots
